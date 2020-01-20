@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/choehn/choehn/_apis/build/status/connorhoehndevtech.pipelines-java?branchName=master)](https://dev.azure.com/choehn/choehn/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
