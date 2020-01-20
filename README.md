@@ -1,5 +1,7 @@
 [![Build Status](https://dev.azure.com/choehn/choehn/_apis/build/status/connorhoehndevtech.pipelines-java?branchName=master)](https://dev.azure.com/choehn/choehn/_build/latest?definitionId=1&branchName=master)
 
+Update
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
